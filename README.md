@@ -106,6 +106,6 @@ Esta ferramenta está licenciada sob a Licença MIT. Consulte o arquivo [LICENSE
 ## Créditos 💳
 
 - Desenvolvedor: Seven
-- Contribuidores: [Listar os nomes ou links dos contribuintes] (https://github.com/LucasDesignerF)
+- Contribuidores: [Lucas](https://github.com/LucasDesignerF)
 
 ---
